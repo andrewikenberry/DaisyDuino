@@ -1,4 +1,4 @@
-![](https://github.com/electro-smith/libdaisy/blob/master/resources/assets/banner.png)
+![](https://github.com/andrewikenberry/daisyduino/blob/master/resources/assets/banner.png)
 
 Adds Arduino support to the [Daisy Audio Platform.](https://www.electro-smith.com/daisy) This environment consists of an audio config library, DSP library, and board support using stm32duino.  
 
