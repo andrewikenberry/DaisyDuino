@@ -1,6 +1,6 @@
 ![](https://github.com/andrewikenberry/daisyduino/blob/master/resources/assets/banner.png)
 
-## Arduino support for the [Daisy Audio Platform.](https://www.electro-smith.com/daisy) 
+## Arduino support for the [Daisy Audio Platform](https://www.electro-smith.com/daisy) 
 
 ### Features
 - DSP library full of synthesis blocks, effects processors, and more
